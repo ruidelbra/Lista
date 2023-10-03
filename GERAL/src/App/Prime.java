@@ -18,7 +18,7 @@ public class Prime {
 		Locale.setDefault(Locale.US);
 		
 		
-	System.out.println("ola git");
+	System.out.println("ola gits");
 		boolean condicion = true;
 		
 		while(condicion) {
