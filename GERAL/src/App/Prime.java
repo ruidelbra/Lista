@@ -23,9 +23,13 @@ public class Prime {
 		
 		while(condicion) {
 			System.out.println("=============menu================");
+			System.out.println();
 			System.out.println("opção (1) cadastrar clientes");
+			System.out.println();
 			System.out.println("opção (2) ver lista de clientes");
+			System.out.println();
 			System.out.println("opção (3) remover clientes");
+			System.out.println();
 			System.out.println("opção (4) #sair");
 			int option = SC.nextInt();
 			System.out.println();
